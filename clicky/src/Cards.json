@@ -1,0 +1,75 @@
+  
+[
+    {
+      "id": 1,
+      "name": "Batman",
+      "image": "./src/images/batman",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Robin",
+      "image": "./src/images/Robin",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Bat Girl",
+      "image": ".src/images/Bat-Girl",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Catwoman",
+      "image": ".src/images/Catwoman",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Comisioner Gordon",
+      "image": ".src/images/commisioner-gordon",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "NightWing",
+      "image": ".src/images/nightwing",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "The Joker",
+      "image": ".src/images/The-Joker",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Penguin",
+      "image": "./src/images/Penguin",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Alfred",
+      "image": "./src/images/alfred",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Two Face",
+      "image": "./src/images/twoface",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Vicki Vale",
+      "image": "./src/images/Vicki Vale",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Lucius Fox",
+      "image": "./src/images/LuciusFox",
+      "count": 0
+    }
+  ]
