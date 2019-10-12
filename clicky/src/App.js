@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Card from "./components/Card";
-import Wrapper from "./components/Wrapper";
-import Header from "./components/Header";
-import cards from "./cards.json";
+import Card from "./components/Cards";
+import Wrapper from "./components/Wraps";
+import Header from "./components/Headers";
+import cards from "./Cards.json";
 import "./App.css";
 
 class App extends Component {
@@ -21,7 +21,7 @@ class App extends Component {
     this.state.cards.forEach(card => {
       card.count = 0;
     });
-    alert(`GSME OVER TRY AGAIN:( \nscore: ${this.state.score}`);
+    alert(`GAME OVER TRY AGAIN:( \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }

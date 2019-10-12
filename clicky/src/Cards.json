@@ -3,73 +3,73 @@
     {
       "id": 1,
       "name": "Batman",
-      "image": "./src/images/batman",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/11125/111253436/6733777-4.jpg",
       "count": 0
     },
     {
       "id": 2,
       "name": "Robin",
-      "image": "./src/images/Robin",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/2/25855/6754841-yj01-09-color1.jpg",
       "count": 0
     },
     {
       "id": 3,
       "name": "Bat Girl",
-      "image": ".src/images/Bat-Girl",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/1/14487/6703495-batgirl.jpg",
       "count": 0
     },
     {
       "id": 4,
       "name": "Catwoman",
-      "image": ".src/images/Catwoman",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/6/63459/5555748-0765257915-3301a.jpg",
       "count": 0
     },
     {
       "id": 5,
       "name": "Comisioner Gordon",
-      "image": ".src/images/commisioner-gordon",
+      "image": "https://comicvine1.cbsistatic.com/uploads/scale_medium/10/100647/5446248-batman%20%282016-%29%20002-017.jpg",
       "count": 0
     },
     {
       "id": 6,
       "name": "NightWing",
-      "image": ".src/images/nightwing",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/10/100647/6436334-nightwing%2039%20yasmine%20putri%20variant.jpg",
       "count": 0
     },
     {
       "id": 7,
       "name": "The Joker",
-      "image": ".src/images/The-Joker",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/11125/111253436/6733799-o.jpg",
       "count": 0
     },
     {
       "id": 8,
       "name": "Penguin",
-      "image": "./src/images/Penguin",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/6/64770/2048679-penguin_4.jpg",
       "count": 0
     },
     {
       "id": 9,
       "name": "Alfred",
-      "image": "./src/images/alfred",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/10/100647/6012147-alfred4.jpg",
       "count": 0
     },
     {
       "id": 10,
       "name": "Two Face",
-      "image": "./src/images/twoface",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/10/100647/5462570-tf.jpg",
       "count": 0
     },
     {
       "id": 11,
       "name": "Vicki Vale",
-      "image": "./src/images/Vicki Vale",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/14/148518/4061749-vicki_vale_dcnu-1.jpg",
       "count": 0
     },
     {
       "id": 12,
       "name": "Lucius Fox",
-      "image": "./src/images/LuciusFox",
+      "image": "https://comicvine1.cbsistatic.com/uploads/square_small/11131/111319715/6392341-152438358177249731.jpg",
       "count": 0
     }
   ]
